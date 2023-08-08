@@ -5,7 +5,7 @@ const icons={
 
 };
 const getWeatherIcon = weatherState =>{
-    return <WeatherIcons neme={} size="2x"/>;
+    return <WeatherIcons  size="2x"/>;
 }
 
 const WeatherTemperature = ({temperature,weatherState}) => (
